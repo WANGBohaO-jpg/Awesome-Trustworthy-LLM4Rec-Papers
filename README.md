@@ -67,7 +67,6 @@ How LLMs improve or weaken recommender resilience under attacks, noise, and dist
 #### [Challenge] Additional noise sources introduced by LLMs
 
 - [Towards S^2-Challenges Underlying LLM-Based Augmentation for Personalized News Recommendation](https://scholar.google.com/scholar?q=Towards+S^2-Challenges+Underlying+LLM-Based+Augmentation+for+Personalized+News+Recommendation) **S^2LENR**: Wang et al. | AAAI | 2025
-- [Where Does the Noise Come From? A Variance-Components Decomposition of Non-Determinism in LLM Brand Answers](https://arxiv.org/abs/2607.13304) Dmitrij Żatuchin | arXiv:2607.13304 | 2026
 
 ### Bias and Fairness
 
