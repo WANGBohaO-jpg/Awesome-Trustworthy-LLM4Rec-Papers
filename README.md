@@ -88,6 +88,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20773) **ColdRAG**: Yang et al. | arXiv:2505.20773 | 2025
 - [Llm is knowledge graph reasoner: Llm's intuition-aware knowledge graph reasoning for cold-start sequential recommendation](https://scholar.google.com/scholar?q=Llm+is+knowledge+graph+reasoner:+Llm's+intuition-aware+knowledge+graph+reasoning+for+cold-start+sequential+recommendation) **LIKR**: Sakurai et al. | ECIR | 2025
 - [Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap](https://arxiv.org/abs/2501.01945) Zhang et al. | arXiv:2501.01945 | 2025
+- [LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation](https://arxiv.org/abs/2608.03382) Lee et al. | arXiv:2608.03382 | 2026
 
 #### [Opportunity] LLMs for popularity bias mitigation
 
@@ -135,6 +136,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Large language models are zero-shot rankers for recommender systems](https://scholar.google.com/scholar?q=Large+language+models+are+zero-shot+rankers+for+recommender+systems) **LLMRank**: Hou et al. | ECIR | 2024
 - [Evaluating Position Bias in Large Language Model Recommendations](https://arxiv.org/abs/2508.02020) **RISE**: Bito et al. | arXiv:2508.02020 | 2025
 - [Tapping the potential of large language models as recommender systems: A comprehensive framework and empirical analysis](https://scholar.google.com/scholar?q=Tapping+the+potential+of+large+language+models+as+recommender+systems:+A+comprehensive+framework+and+empirical+analysis) **LLMRec**: Xu et al. | ACM TKDD | 2025
+- [Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking](https://arxiv.org/abs/2608.03091) Bito et al. | RecSys | 2026
 
 #### [Challenge] Other emerging biases
 
@@ -160,6 +162,8 @@ User- and system-initiated steering of recommendation behavior, plus the limits 
 - [Filtering Discomforting Recommendations with Large Language Models](https://scholar.google.com/scholar?q=Filtering+Discomforting+Recommendations+with+Large+Language+Models) **DiscomfortFilter**: Liu et al. | WWW | 2025
 - [Leveraging large language models in conversational recommender systems](https://arxiv.org/abs/2305.07961) **RecLLM**: Friedman et al. | arXiv:2305.07961 | 2023
 - [iAgent: LLM Agent as a Shield between User and Recommender Systems](https://arxiv.org/abs/2502.14662) Xu et al. | arXiv:2502.14662 | 2025
+- [Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation](https://arxiv.org/abs/2608.06632) Xu et al. | RecSys | 2026
+- [Cleo: A Transparent and Controllable Chatbot for Conversational Commerce](https://arxiv.org/abs/2608.06068) Schott et al. | CHIIR | 2026
 
 #### [Opportunity] System-initiated control
 
