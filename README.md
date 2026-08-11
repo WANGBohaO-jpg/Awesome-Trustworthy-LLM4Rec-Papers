@@ -53,10 +53,6 @@ How LLMs improve or weaken recommender resilience under attacks, noise, and dist
 - [Drdt: Dynamic reflection with divergent thinking for llm-based sequential recommendation](https://arxiv.org/abs/2312.11336) Wang et al. | arXiv:2312.11336 | 2023
 - [Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](https://arxiv.org/abs/2507.21563) **VoteGCL**: Nguyen et al. | arXiv:2507.21563 | 2025
 - [Lusifer: LLM-based user simulated feedback environment for online recommender systems](https://arxiv.org/abs/2405.13362) Ebrat et al. | arXiv:2405.13362 | 2024
-- [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/abs/2603.22335) Zhao et al. | arXiv:2603.22335 | 2026
-- [Rethinking Semantic Collaborative Integration: Why Alignment Is Not Enough](https://arxiv.org/abs/2604.22195) Wang et al. | arXiv:2604.22195 | 2026
-- [Bridging Behavior and Semantics for Time-aware Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2605.02369) Qin et al. | arXiv:2605.02369 | 2026
-- [Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations](https://arxiv.org/abs/2606.10357) Jiang et al. | arXiv:2606.10357 | 2026
 
 #### [Challenge] Additional attack threats introduced by LLMs
 
@@ -100,15 +96,12 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20773) **ColdRAG**: Yang et al. | arXiv:2505.20773 | 2025
 - [Llm is knowledge graph reasoner: Llm's intuition-aware knowledge graph reasoning for cold-start sequential recommendation](https://scholar.google.com/scholar?q=Llm+is+knowledge+graph+reasoner:+Llm's+intuition-aware+knowledge+graph+reasoning+for+cold-start+sequential+recommendation) **LIKR**: Sakurai et al. | ECIR | 2025
 - [Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap](https://arxiv.org/abs/2501.01945) Zhang et al. | arXiv:2501.01945 | 2025
-- [Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues](https://arxiv.org/abs/2601.19750) Fu et al. | arXiv:2601.19750 | 2026
 - [IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs](https://arxiv.org/abs/2603.01590) Zhang et al. | arXiv:2603.01590 | 2026
 - [GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items](https://arxiv.org/abs/2603.14259) Shen et al. | arXiv:2603.14259 | 2026
-- [Diagnosing LLM-based Rerankers in Cold-Start Recommender Systems: Coverage, Exposure and Practical Mitigations](https://arxiv.org/abs/2604.16318) Lemdiasova et al. | arXiv:2604.16318 | 2026
 - [HSUGA: LLM-Enhanced Recommendation with Hierarchical Semantic Understanding and Group-Aware Alignment](https://arxiv.org/abs/2605.11662) Li et al. | arXiv:2605.11662 | 2026
 - [Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007) Wang et al. | arXiv:2605.25007 | 2026
 - [Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448) Zhang et al. | arXiv:2606.04448 | 2026
 - [Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations](https://arxiv.org/abs/2606.06779) Sinha et al. | arXiv:2606.06779 | 2026
-- [Diagnosing and Mitigating Retrieval Bottlenecks in LLM-Based Cold-Start Recommendation](https://arxiv.org/abs/2606.29947) Dong et al. | arXiv:2606.29947 | 2026
 
 #### [Opportunity] LLMs for popularity bias mitigation
 
@@ -119,8 +112,6 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Llm-esr: Large language models enhancement for long-tailed sequential recommendation](https://scholar.google.com/scholar?q=Llm-esr:+Large+language+models+enhancement+for+long-tailed+sequential+recommendation) Liu et al. | NeurIPS | 2024
 - [Large language models are zero-shot rankers for recommender systems](https://scholar.google.com/scholar?q=Large+language+models+are+zero-shot+rankers+for+recommender+systems) **LLMRank**: Hou et al. | ECIR | 2024
 - [Bridging Semantic Understanding and Popularity Bias with LLMs](https://arxiv.org/abs/2601.09478) **FairLRM**: Luo et al. | arXiv:2601.09478 | 2026
-- [Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems](https://arxiv.org/abs/2603.12752) Zhang et al. | arXiv:2603.12752 | 2026
-- [Bridging Passive and Active: Enhancing Conversation Starter Recommendation via Active Expression Modeling](https://arxiv.org/abs/2605.05855) **PA-Bridge**: Wu et al. | arXiv:2605.05855 | 2026
 
 #### [Challenge] Fine-tuning amplifies popularity bias in LLMs
 
