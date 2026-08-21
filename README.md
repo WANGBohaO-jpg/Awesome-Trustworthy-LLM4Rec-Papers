@@ -9,11 +9,11 @@ A curated paper list for **Trustworthy Recommendation in the Era of Large Langua
 
 This repository tracks how LLMs reshape recommender-system trustworthiness across **six dimensions**, covering both **opportunities** and **challenges**. The papers are grouped into **13 opportunity** and **18 challenge** topics.
 
-## ✨ Update
+![trustworthiness](trustworthiness.png)
+
+## 🔥Update
 
 - **2026-08-21**: The paper list was updated.
-
-![trustworthiness](trustworthiness.png)
 
 ## Contents
 
