@@ -72,7 +72,7 @@ How LLMs improve or weaken recommender resilience under attacks, noise, and dist
 #### [Challenge] Additional noise sources introduced by LLMs
 
 - [Towards S^2-Challenges Underlying LLM-Based Augmentation for Personalized News Recommendation](https://scholar.google.com/scholar?q=Towards+S^2-Challenges+Underlying+LLM-Based+Augmentation+for+Personalized+News+Recommendation) **S^2LENR**: Wang et al. | AAAI | 2025
-- [Echoes in the Loop: Diagnosing Risks in LLM-Powered Recommender Systems under Feedback Loops](https://arxiv.org/abs/2602.07442) Park et al. | arXiv:2602.07442 | 2026
+- [EchoTrace: Diagnosing Recursive Risks in LLM-Powered Recommender Systems](https://arxiv.org/abs/2602.07442) Park et al. | arXiv:2602.07442 | 2026
 
 ### Bias and Fairness
 
