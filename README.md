@@ -13,7 +13,7 @@ This repository tracks how LLMs reshape recommender-system trustworthiness acros
 
 ## 🔥Update
 
-- **2026-08-21**: The paper list was updated.
+- **2026-08-21**: The paper list has been updated with 49 new papers.
 
 ## Contents
 
