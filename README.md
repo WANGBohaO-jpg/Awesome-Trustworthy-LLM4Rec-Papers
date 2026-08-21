@@ -46,7 +46,6 @@ How LLMs improve or weaken recommender resilience under attacks, noise, and dist
 - [Post-Training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation](https://arxiv.org/abs/2601.18009) Dervishaj et al. | arXiv:2601.18009 | 2026
 - [Disagreement as Signals: Dual-view Calibration for Sequential Recommendation Denoising](https://arxiv.org/abs/2604.24048) Li et al. | arXiv:2604.24048 | 2026
 - [ToolRec: Calibrated Preference Alignment for Query Recommendation in On-Device Assistants](https://arxiv.org/abs/2606.08466) Luo et al. | arXiv:2606.08466 | 2026
-- [User Preference Induction with LLMs for Offline Top-N Recommendation Evaluation](https://arxiv.org/abs/2607.11354) Otero et al. | arXiv:2607.11354 | 2026
 
 #### [Opportunity] LLM-enhanced adaptation to distribution shifts
 
@@ -74,7 +73,6 @@ How LLMs improve or weaken recommender resilience under attacks, noise, and dist
 
 - [Towards S^2-Challenges Underlying LLM-Based Augmentation for Personalized News Recommendation](https://scholar.google.com/scholar?q=Towards+S^2-Challenges+Underlying+LLM-Based+Augmentation+for+Personalized+News+Recommendation) **S^2LENR**: Wang et al. | AAAI | 2025
 - [Echoes in the Loop: Diagnosing Risks in LLM-Powered Recommender Systems under Feedback Loops](https://arxiv.org/abs/2602.07442) Park et al. | arXiv:2602.07442 | 2026
-- [Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?](https://arxiv.org/abs/2602.13626) Zhang et al. | arXiv:2602.13626 | 2026
 
 ### Bias and Fairness
 
@@ -98,7 +96,6 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap](https://arxiv.org/abs/2501.01945) Zhang et al. | arXiv:2501.01945 | 2025
 - [IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs](https://arxiv.org/abs/2603.01590) Zhang et al. | arXiv:2603.01590 | 2026
 - [GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items](https://arxiv.org/abs/2603.14259) Shen et al. | arXiv:2603.14259 | 2026
-- [HSUGA: LLM-Enhanced Recommendation with Hierarchical Semantic Understanding and Group-Aware Alignment](https://arxiv.org/abs/2605.11662) Li et al. | arXiv:2605.11662 | 2026
 - [Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007) Wang et al. | arXiv:2605.25007 | 2026
 - [Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448) Zhang et al. | arXiv:2606.04448 | 2026
 - [Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations](https://arxiv.org/abs/2606.06779) Sinha et al. | arXiv:2606.06779 | 2026
@@ -168,7 +165,6 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation Is Easily Hacked by Biases (Preferences)](https://arxiv.org/abs/2603.17417) **BiasRecBench**: Tang et al. | arXiv:2603.17417 | 2026
 - [Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation](https://arxiv.org/abs/2604.15937) Pagan et al. | arXiv:2604.15937 | 2026
 - [Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems](https://arxiv.org/abs/2606.17443) Chu et al. | arXiv:2606.17443 | 2026
-- [Rethinking Fairness in LLM-Based Recommender Systems: A Survey](https://arxiv.org/abs/2606.28340) Ma et al. | arXiv:2606.28340 | 2026
 
 ### Controllability
 
@@ -258,6 +254,7 @@ LLM-enabled user-facing explanations, model-centric reasoning transparency, and 
 - [Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization](https://arxiv.org/abs/2604.02539) Erol et al. | arXiv:2604.02539 | 2026
 - [MMP-Refer: Multimodal Path Retrieval-augmented LLMs for Explainable Recommendation](https://arxiv.org/abs/2604.03666) Pan et al. | arXiv:2604.03666 | 2026
 - [SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation](https://arxiv.org/abs/2606.18897) Xia et al. | arXiv:2606.18897 | 2026
+- [Following the TRAIL: Predicting and Explaining Tomorrow's Hits with a Fine-Tuned LLM](https://arxiv.org/abs/2602.04225) **TRAIL**: Zhang et al. | arXiv:2602.04225 | 2026
 
 #### [Opportunity] User-centric explainability
 
@@ -279,7 +276,6 @@ LLM-enabled user-facing explanations, model-centric reasoning transparency, and 
 - [Llmrec: Benchmarking large language models on recommendation task](https://arxiv.org/abs/2308.12241) Liu et al. | arXiv:2308.12241 | 2023
 - [Instructing and prompting large language models for explainable cross-domain recommendations](https://scholar.google.com/scholar?q=Instructing+and+prompting+large+language+models+for+explainable+cross-domain+recommendations) **CDR-LLM**: Petruzzelli et al. | RecSys | 2024
 - [Recexplainer: Aligning large language models for explaining recommendation models](https://scholar.google.com/scholar?q=Recexplainer:+Aligning+large+language+models+for+explaining+recommendation+models) Lei et al. | KDD | 2024
-- [Following the TRAIL: Predicting and Explaining Tomorrow's Hits with a Fine-Tuned LLM](https://arxiv.org/abs/2602.04225) **TRAIL**: Zhang et al. | arXiv:2602.04225 | 2026
 - [Sequence-aware Large Language Models for Explainable Recommendation](https://arxiv.org/abs/2603.24136) **SELLER**: Zhang et al. | arXiv:2603.24136 | 2026
 - [MATRAG: Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations](https://arxiv.org/abs/2604.20848) Mehta et al. | arXiv:2604.20848 | 2026
 
@@ -344,7 +340,6 @@ Grounding LLM-based recommendation in real items and reliable domain knowledge.
 - [RosePO: Aligning LLM-based Recommenders with Human Values](https://arxiv.org/abs/2410.12519) Liao et al. | arXiv:2410.12519 | 2024
 - [Retrieval and Structuring Augmented Generation with LLMs for Web Applications](https://scholar.google.com/scholar?q=Retrieval+and+Structuring+Augmented+Generation+with+LLMs+for+Web+Applications) Jiao et al. | WWW Companion | 2025
 - [Retrieval-augmented recommender system: Enhancing recommender systems with large language models](https://scholar.google.com/scholar?q=Retrieval-augmented+recommender+system:+Enhancing+recommender+systems+with+large+language+models) **RaRS**: Di Palma, Dario | RecSys | 2023
-- [RecRM-Bench: Benchmarking Multidimensional Reward Modeling for Agentic Recommender Systems](https://arxiv.org/abs/2605.11874) Zeng et al. | arXiv:2605.11874 | 2026
 
 ### Privacy
 
@@ -368,7 +363,6 @@ Privacy-aware personalization, user-centric privacy controls, and leakage risks 
 - [Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations](https://arxiv.org/abs/2603.13264) **FedTREK-LM**: Spadea et al. | arXiv:2603.13264 | 2026
 - [Federated User Behavior Modeling for Privacy-Preserving LLM Recommendation](https://arxiv.org/abs/2604.14833) **SF-UBM**: Guo et al. | arXiv:2604.14833 | 2026
 - [Guiding Federated Graph Recommendation with LLM-encoded knowledge](https://arxiv.org/abs/2606.15277) Nguyen et al. | arXiv:2606.15277 | 2026
-- [From "Strings" to "Things" for Personal Knowledge Graphs: Evaluating LLM Triple Extraction for Recommendation Systems](https://arxiv.org/abs/2607.00003) Dasgupta et al. | arXiv:2607.00003 | 2026
 
 #### [Challenge] Communication and resource constraints
 
