@@ -99,6 +99,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking](https://arxiv.org/abs/2605.25007) Wang et al. | arXiv:2605.25007 | 2026
 - [Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448) Zhang et al. | arXiv:2606.04448 | 2026
 - [Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations](https://arxiv.org/abs/2606.06779) Sinha et al. | arXiv:2606.06779 | 2026
+- [LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation](https://arxiv.org/abs/2608.03382) Lee et al. | arXiv:2608.03382 | 2026
 
 #### [Opportunity] LLMs for popularity bias mitigation
 
@@ -154,6 +155,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Evaluating Position Bias in Large Language Model Recommendations](https://arxiv.org/abs/2508.02020) **RISE**: Bito et al. | arXiv:2508.02020 | 2025
 - [Tapping the potential of large language models as recommender systems: A comprehensive framework and empirical analysis](https://scholar.google.com/scholar?q=Tapping+the+potential+of+large+language+models+as+recommender+systems:+A+comprehensive+framework+and+empirical+analysis) **LLMRec**: Xu et al. | ACM TKDD | 2025
 - [Towards Position-Robust Talent Recommendation via Large Language Models](https://arxiv.org/abs/2604.02200) **L3TR**: Du et al. | arXiv:2604.02200 | 2026
+- [Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking](https://arxiv.org/abs/2608.03091) Bito et al. | RecSys | 2026
 
 #### [Challenge] Other emerging biases
 
@@ -185,6 +187,8 @@ User- and system-initiated steering of recommendation behavior, plus the limits 
 - [Give Users the Wheel: Towards Promptable Recommendation Paradigm](https://arxiv.org/abs/2602.18929) **DPR**: Lyu et al. | arXiv:2602.18929 | 2026
 - [Just Ask for a Table: A Thirty-Token User Prompt Defeats Sponsored Recommendations in Twelve LLMs](https://arxiv.org/abs/2605.12772) Maier et al. | arXiv:2605.12772 | 2026
 - [Designing Trustworthy LLM-based Wellbeing Recommendation through Controllable Interaction](https://arxiv.org/abs/2606.25809) Said et al. | arXiv:2606.25809 | 2026
+- [Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation](https://arxiv.org/abs/2608.06632) Xu et al. | RecSys | 2026
+- [Cleo: A Transparent and Controllable Chatbot for Conversational Commerce](https://arxiv.org/abs/2608.06068) Schott et al. | CHIIR | 2026
 
 #### [Opportunity] System-initiated control
 
