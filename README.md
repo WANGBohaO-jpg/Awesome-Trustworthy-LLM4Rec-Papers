@@ -104,6 +104,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning](https://arxiv.org/abs/2606.04448) Zhang et al. | arXiv:2606.04448 | 2026
 - [Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations](https://arxiv.org/abs/2606.06779) Sinha et al. | arXiv:2606.06779 | 2026
 - [LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation](https://arxiv.org/abs/2608.03382) Lee et al. | arXiv:2608.03382 | 2026
+- [Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation](https://arxiv.org/abs/2608.29410) Xu et al. | arXiv:2608.29410 | 2026
 
 #### [Opportunity] LLMs for popularity bias mitigation
 
@@ -160,6 +161,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Tapping the potential of large language models as recommender systems: A comprehensive framework and empirical analysis](https://scholar.google.com/scholar?q=Tapping+the+potential+of+large+language+models+as+recommender+systems:+A+comprehensive+framework+and+empirical+analysis) **LLMRec**: Xu et al. | ACM TKDD | 2025
 - [Towards Position-Robust Talent Recommendation via Large Language Models](https://arxiv.org/abs/2604.02200) **L3TR**: Du et al. | arXiv:2604.02200 | 2026
 - [Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking](https://arxiv.org/abs/2608.03091) Bito et al. | RecSys | 2026
+- [Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation](https://arxiv.org/abs/2608.23484) Garg et al. | RecSys | 2026
 
 #### [Challenge] Other emerging biases
 
@@ -263,6 +265,7 @@ LLM-enabled user-facing explanations, model-centric reasoning transparency, and 
 - [MMP-Refer: Multimodal Path Retrieval-augmented LLMs for Explainable Recommendation](https://arxiv.org/abs/2604.03666) Pan et al. | arXiv:2604.03666 | 2026
 - [SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation](https://arxiv.org/abs/2606.18897) Xia et al. | arXiv:2606.18897 | 2026
 - [Following the TRAIL: Predicting and Explaining Tomorrow's Hits with a Fine-Tuned LLM](https://arxiv.org/abs/2602.04225) **TRAIL**: Zhang et al. | arXiv:2602.04225 | 2026
+- [SemPOI-RL: Aligning LLM Semantic Reasoning for Interpretable Out-of-Town POI Sequential Generation](https://arxiv.org/abs/2608.30399) Liu et al. | arXiv:2608.30399 | 2026
 
 #### [Opportunity] User-centric explainability
 
@@ -295,6 +298,7 @@ LLM-enabled user-facing explanations, model-centric reasoning transparency, and 
 - [Disentangling likes and dislikes in personalized generative explainable recommendation](https://scholar.google.com/scholar?q=Disentangling+likes+and+dislikes+in+personalized+generative+explainable+recommendation) **Sent-XRec**: Shimizu et al. | WWW | 2025
 - [RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation](https://arxiv.org/abs/2601.19120) Zhang et al. | arXiv:2601.19120 | 2026
 - [HELM: A Human-Centered Evaluation Framework for LLM-Powered Recommender Systems](https://arxiv.org/abs/2601.19197) Mehta et al. | arXiv:2601.19197 | 2026
+- [Beyond Ranking Accuracy: Evaluating LLM-Cited Feature Rationales for Next Basket Repurchase Recommendation](https://arxiv.org/abs/2608.30333) Cao et al. | RecSys Workshop | 2026
 
 #### [Challenge] Over-reliance on external prior knowledge
 
