@@ -72,11 +72,13 @@ How LLMs improve or weaken recommender resilience under attacks, noise, and dist
 - [Poison-rag: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems](https://scholar.google.com/scholar?q=Poison-rag:+Adversarial+data+poisoning+attacks+on+retrieval-augmented+generation+in+recommender+systems) **Position-RAG**: Nazary et al. | ECIR | 2025
 - [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2602.06409) Guan et al. | arXiv:2602.06409 | 2026
 - [Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems](https://arxiv.org/abs/2604.23640) Zhao et al. | arXiv:2604.23640 | 2026
+- [VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents](https://arxiv.org/abs/2609.38270) Hao et al. | arXiv:2609.38270 | 2026
 
 #### [Challenge] Additional noise sources introduced by LLMs
 
 - [Towards S^2-Challenges Underlying LLM-Based Augmentation for Personalized News Recommendation](https://scholar.google.com/scholar?q=Towards+S^2-Challenges+Underlying+LLM-Based+Augmentation+for+Personalized+News+Recommendation) **S^2LENR**: Wang et al. | AAAI | 2025
 - [EchoTrace: Diagnosing Recursive Risks in LLM-Powered Recommender Systems](https://arxiv.org/abs/2602.07442) Park et al. | arXiv:2602.07442 | 2026
+- [When the Label Ignores the Request: Auditing Policy-Selected Targets in Synthetic Conversational Music Recommendation](https://arxiv.org/abs/2609.39696) Sanjeev Suresh | RecSys Challenge Workshop | 2026
 
 ### Bias and Fairness
 
@@ -171,6 +173,7 @@ How LLMs mitigate cold-start and popularity bias, while also introducing stereot
 - [Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation Is Easily Hacked by Biases (Preferences)](https://arxiv.org/abs/2603.17417) **BiasRecBench**: Tang et al. | arXiv:2603.17417 | 2026
 - [Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation](https://arxiv.org/abs/2604.15937) Pagan et al. | arXiv:2604.15937 | 2026
 - [Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems](https://arxiv.org/abs/2606.17443) Chu et al. | arXiv:2606.17443 | 2026
+- [When LLM-Inferred User Context Adds Value in Production Streaming Recommendation](https://arxiv.org/abs/2609.38999) Sabouri et al. | arXiv:2609.38999 | 2026
 
 ### Controllability
 
@@ -203,6 +206,8 @@ User- and system-initiated steering of recommendation behavior, plus the limits 
 - [Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation](https://arxiv.org/abs/2603.10673) **TriRec**: Gong et al. | arXiv:2603.10673 | 2026
 - [Beyond Static Best-of-N: Bayesian List-wise Alignment for LLM-based Recommendation](https://arxiv.org/abs/2605.04559) **BLADE**: Chen et al. | arXiv:2605.04559 | 2026
 - [LLM-Assisted Reranking to Operationalize Nuanced Objectives in Recommender Systems](https://arxiv.org/abs/2606.02883) Ghasemian et al. | arXiv:2606.02883 | 2026
+- [Routing Between Generative and Collaborative User Profiles: A Serving-Time Gate for Controllable Novelty](https://arxiv.org/abs/2609.39043) Sabouri et al. | arXiv:2609.39043 | 2026
+- [RealWorldShop: Benchmarking and Improving Conversational Shopping Agents in Real-World E-commerce](https://arxiv.org/abs/2609.38974) Yang et al. | arXiv:2609.38974 | 2026
 
 #### [Challenge] Semantic ambiguity
 
